@@ -1,0 +1,16 @@
+{
+  "include": [
+    "."
+  ],
+  "reportMissingTypeStubs": false,
+  "reportMissingImports": false,
+  "reportUnknownMemberType": false,
+  "reportUnknownVariableType": false,
+  "reportUnknownArgumentType": false,
+  "venvPath": ".",
+  "venv": "venv",
+  "extraPaths": [
+    "venv/Lib/site-packages",
+    "c:/Users/Chanchali/Downloads/waste_classification_mobilenetv3/venv/Lib/site-packages"
+  ]
+}
